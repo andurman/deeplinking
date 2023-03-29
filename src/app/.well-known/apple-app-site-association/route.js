@@ -13,6 +13,9 @@ export async function GET() {
                 ]
             }
         ]
+    },
+    "activitycontinuation": {
+      "apps": ["H89CY3JT5Q.com.albarakaturk.mobilebranchtest1"]
     }
   })
 }
